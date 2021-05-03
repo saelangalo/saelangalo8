@@ -1,0 +1,82 @@
+*{
+	flex-wrap: wrap;
+	min-width: 80px;
+	margin-bottom: 0px;
+}
+
+#principal{
+	width: 900px;
+	height: 864px;
+	margin: auto;
+	background: #bdbdbc;
+}
+
+header{
+	background: #717370
+	width: 900px;
+	height: 100px;
+}
+
+#logo{
+	margin-top: 4px;
+	width: 300px;
+	height: 90px;
+	float: left;
+}
+
+.menu{
+	width: 450px;
+	height: 44px;
+	float: right;
+	margin-top: 40px;
+	background: #006699
+}
+
+.menu ul{}
+
+.menu ul li{
+	list-style: none;
+	float: right;
+}
+
+.menu ul li a{
+	text-decoration: none;
+	padding: 10px 18px;
+	color: white;
+}
+
+.menu ul li a:hover{
+	background: #0a2159;
+	color: white;
+	transition: background 1s, color 0.5s
+}	
+
+#slider{
+	width: 900px;
+	height: 350px;
+	float: left;
+}
+
+#categoria{
+	width: 900px;
+	height: auto; overflow: hidden;
+	margin-top: 10px;
+}
+
+.uno{
+	width: 290px;
+	height: 400px;
+	float: left;
+	background: #90908f
+}
+
+.dos{
+	margin-left: 14px;
+	margin-right: 14px;
+	background: #90908f
+}
+
+.tres{
+	margin-left: 1px;
+	margin-right: 1,9px;
+	background: 
